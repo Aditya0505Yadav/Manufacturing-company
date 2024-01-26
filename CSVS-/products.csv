@@ -1,0 +1,201 @@
+p_manufacturingID,productID,productName,productType
+19,1,"NanoProbe Analyzer"," Instrumentation   "
+37,2,"FluidicLink Adapter"," Fluid Connectors    "
+44,3,"MotionMate Mechanism"," Motion Systems      "
+49,4,"AeroPolymer Alloy"," Aeronautics         "
+13,5,"FlexiSeal Connector"," Fluid Connectors    "
+12,6,"HydraTrack System"," Fluid Connectors    "
+40,7,"NanoGlide Mechanism"," Motion Systems      "
+41,8,"PrecisionComposite Material"," Engineering Materials "
+26,9,"AeroMotion Actuator"," Motion Systems      "
+28,10,"NanoFlow Transmitter"," Instrumentation     "
+33,11,"FluidicCeramic Material"," Engineering Materials "
+21,12,"AeroWing Component"," Aeronautics         "
+6,13,"FlexiGrip Coupling"," Fluid Connectors    "
+26,14,"NanoSteel Alloy"," Engineering Materials "
+43,15,"PrecisionFlow Adapter"," Instrumentation     "
+7,16,"AeroRotor Blade"," Aeronautics         "
+12,17,"FlexiFrame Fuselage"," Engineering Materials "
+9,18,"HydraForce Actuator"," Fluid Connectors    "
+31,19,"NanoTech Valve"," Engineering Materials "
+21,20,"FluidicAero Structure"," Engineering Materials "
+16,21,"MotionSync Transmitter"," Instrumentation     "
+1,22,"AeroPropulsion Engine"," Aeronautics         "
+17,23,"FlexiRotor Blade"," Engineering Materials "
+25,24,"HydraPulse Joint"," Fluid Connectors    "
+16,25,"NanoAero Winglet"," Aeronautics         "
+29,26,"FluidicForce Actuator"," Engineering Materials "
+49,27,"AeroGauge Indicator"," Aeronautics         "
+18,28,"FlexiSeal Fitting"," Fluid Connectors    "
+22,29,"HydraLink Connector"," Fluid Connectors    "
+20,30,"NanoFlow Meter"," Instrumentation     "
+38,31,"PrecisionGrip Joint"," Instrumentation     "
+47,32,"FluidicMotion Mechanism"," Engineering Materials "
+37,33,"AeroSeal Fitting"," Aeronautics         "
+1,34,"FlexiProbe Monitor"," Instrumentation     "
+17,35,"HydraGrip Coupling"," Fluid Connectors    "
+42,36,"NanoDrive System"," Instrumentation     "
+24,37,"PrecisionScope Sensor"," Instrumentation     "
+45,38,"AeroMate Connector"," Aeronautics         "
+16,39,"FlexiForce Actuator"," Fluid Connectors    "
+4,40,"HydraTrack Transmitter"," Fluid Connectors    "
+43,41,"NanoJet Propulsion"," Aeronautics         "
+8,42,"FluidicFlex Joint"," Fluid Connectors    "
+30,43,"MotionGuard Sensor"," Motion Systems      "
+20,44,"AeroFrame Component"," Aeronautics         "
+11,45,"FlexiTech Adapter"," Fluid Connectors    "
+26,46,"HydraAero Winglet"," Aeronautics         "
+44,47,"NanoMate Adapter"," Instrumentation     "
+33,48,"PrecisionFlow Meter"," Instrumentation     "
+46,49,"FluidicLink Sensor"," Fluid Connectors    "
+50,50,"MotionMate System"," Motion Systems"
+20,51,"AeroComposite Material","Motion Systems"
+45,52,"FlexiMotion Actuator",Aeronautics
+8,53,"HydraGlide Actuator","Motion Systems"
+41,54,"NanoProbe Monitor","Engineering Materials"
+19,55,"FluidicCeramic Component",Instrumentation
+24,56,"MotionSync Recorder","Engineering Materials"
+40,57,"AeroSteel Alloy","Motion Systems"
+15,58,"FlexiSeal Joint",Aeronautics
+15,59,"HydraWinglet Fuselage","Fluid Connectors"
+9,60,"NanoTrack Indicator",Aeronautics
+31,61,"PrecisionGrip Coupler",Instrumentation
+10,62,"FluidicFrame Structure",Instrumentation
+30,63,"AeroCarbon Composite","Engineering Materials"
+48,64,"FlexiMotion Joint",Aeronautics
+39,65,"HydraJet Component","Motion Systems"
+24,66,"NanoScope Analyzer","Engineering Materials"
+27,67,"PrecisionMate Sensor",Instrumentation
+45,68,"FluidicForce Mechanism",Instrumentation
+36,69,"AeroTitanium Material","Engineering Materials"
+31,70,"FlexiTrack Sensor",Aeronautics
+49,71,"HydraPropulsion Engine","Motion Systems"
+35,72,"NanoRotor Blade","Engineering Materials"
+43,73,"PrecisionLink Coupling",Instrumentation
+14,74,"FluidicFlow Recorder",Instrumentation
+49,75,"MotionFlex Connector","Engineering Materials"
+16,76,"AeroCeramic Material","Motion Systems"
+44,77,"FlexiFlow Meter",Aeronautics
+49,78,"HydraForce Joint","Motion Systems"
+39,79,"NanoGlide Winglet","Engineering Materials"
+6,80,"PrecisionSeal Fitting","Motion Systems"
+34,81,"FluidicAero Component",Aeronautics
+29,82,"MotionMate Actuator","Engineering Materials"
+34,83,"AeroSteel Component","Motion Systems"
+46,84,"FlexiGlide Mechanism",Aeronautics
+24,85,"HydraTech Adapter","Motion Systems"
+5,86,"NanoMotion System","Engineering Materials"
+37,87,"PrecisionFlex Joint",Aeronautics
+8,88,"FluidicCeramic Structure",Instrumentation
+4,89,"AeroComposite Component","Motion Systems"
+36,90,"FlexiSeal Coupling",Aeronautics
+33,91,"HydraForce Coupler",Instrumentation
+13,92,"NanoAero Engine",Instrumentation
+37,93,"PrecisionGrip Adapter","Engineering Materials"
+35,94,"FluidicMotion System",Instrumentation
+10,95,"AeroTitanium Alloy","Fluid Connectors"
+11,96,"FlexiTrack Indicator","Motion Systems"
+21,97,"HydraPropulsion Winglet",Aeronautics
+34,98,"NanoJet Structure","Fluid Connectors"
+29,99,"PrecisionMate Coupler","Fluid Connectors"
+8,100,"FluidicFrame Component","Motion Systems"
+44,101,"MotionFlex System","Engineering Materials"
+14,102,"AeroCarbon Alloy","Motion Systems"
+46,103,"FlexiFlow Coupler",Instrumentation
+38,104,"HydraForce Fitting","Fluid Connectors"
+32,105,"NanoAero Component","Engineering Materials"
+6,106,"PrecisionGrip Joint",Aeronautics
+33,107,"FluidicCeramic Blade","Fluid Connectors"
+29,108,"AeroSteel Winglet","Engineering Materials"
+4,109,"FlexiSeal Adapter",Instrumentation
+30,110,"HydraTech Joint",Aeronautics
+9,111,"NanoMotion Mechanism","Engineering Materials"
+33,112,"PrecisionFlex Coupling","Fluid Connectors"
+27,113,"FluidicMotion Actuator","Engineering Materials"
+30,114,"AeroTitanium Component","Motion Systems"
+37,115,"FlexiTrack Coupler",Aeronautics
+4,116,"HydraForce Transmitter","Fluid Connectors"
+36,117,"NanoAero Wing","Engineering Materials"
+30,118,"PrecisionGrip Fitting",Instrumentation
+44,119,"FluidicFrame Winglet","Fluid Connectors"
+20,120,"MotionFlex Actuator","Motion Systems"
+47,121,"AeroCarbon Component",Aeronautics
+2,122,"FlexiFlow Joint","Fluid Connectors"
+26,123,"HydraForce Sensor",Aeronautics
+17,124,ProductName,Instrumentation
+1,125,"NanoProbe Analyzer","Engineering Materials"
+48,126,"FluidicLink Adapter","Motion Systems"
+14,127,"MotionMate Mechanism",Aeronautics
+38,128,"AeroPolymer Alloy","Motion Systems"
+5,129,"FlexiSeal Connector","Engineering Materials"
+3,130,"HydraTrack System",Aeronautics
+28,131,"NanoGlide Mechanism","Fluid Connectors"
+23,132,"PrecisionComposite Material","Motion Systems"
+45,133,"AeroMotion Actuator",Aeronautics
+5,134,"NanoFlow Transmitter","Engineering Materials"
+35,135,"FluidicCeramic Material","Motion Systems"
+4,136,"AeroWing Component",Instrumentation
+5,137,"FlexiGrip Coupling","Fluid Connectors"
+31,138,"NanoSteel Alloy","Motion Systems"
+3,139,"PrecisionFlow Adapter",Aeronautics
+19,140,"AeroRotor Blade",Instrumentation
+27,141,"FlexiFrame Fuselage","Fluid Connectors"
+12,142,"HydraForce Actuator","Engineering Materials"
+50,143,"NanoTech Valve","Fluid Connectors"
+9,144,"FluidicAero Structure",Instrumentation
+50,145,"MotionSync Transmitter","Engineering Materials"
+42,146,"AeroPropulsion Engine",Instrumentation
+47,147,"FlexiRotor Blade",Aeronautics
+42,148,"HydraPulse Joint","Engineering Materials"
+27,149,"NanoAero Winglet","Fluid Connectors"
+24,150,"FluidicForce Actuator",Aeronautics
+25,151,"AeroGauge Indicator","Fluid Connectors"
+29,152,"FlexiSeal Fitting",Instrumentation
+25,153,"HydraLink Connector","Fluid Connectors"
+25,154,"NanoFlow Meter",Instrumentation
+6,155,"PrecisionGrip Joint",Instrumentation
+44,156,"FluidicMotion Mechanism",Instrumentation
+43,157,"AeroSeal Fitting",Instrumentation
+35,158,"FlexiProbe Monitor","Engineering Materials"
+9,159,"HydraGrip Coupling",Aeronautics
+42,160,"NanoDrive System","Fluid Connectors"
+23,161,"PrecisionScope Sensor","Motion Systems"
+8,162,"AeroMate Connector",Aeronautics
+12,163,"FlexiForce Actuator","Fluid Connectors"
+35,164,"HydraTrack Transmitter","Motion Systems"
+26,165,"NanoJet Propulsion","Engineering Materials"
+34,166,"FluidicFlex Joint","Fluid Connectors"
+9,167,"MotionGuard Sensor","Motion Systems"
+47,168,"AeroFrame Component",Instrumentation
+15,169,"FlexiTech Adapter","Engineering Materials"
+1,170,"HydraAero Winglet","Fluid Connectors"
+49,171,"NanoMate Adapter","Motion Systems"
+2,172,"PrecisionFlow Meter",Instrumentation
+20,173,"FluidicLink Sensor",Instrumentation
+30,174,"MotionMate System","Fluid Connectors"
+44,175,"AeroComposite Material","Motion Systems"
+47,176,"FlexiMotion Actuator",Aeronautics
+35,177,"HydraGlide Actuator","Motion Systems"
+28,178,"NanoProbe Monitor","Engineering Materials"
+35,179,"FluidicCeramic Component",Instrumentation
+25,180,"MotionSync Recorder","Engineering Materials"
+15,181,"AeroSteel Alloy","Motion Systems"
+16,182,"FlexiSeal Joint",Aeronautics
+30,183,"HydraWinglet Fuselage","Fluid Connectors"
+23,184,"NanoTrack Indicator","Engineering Materials"
+10,185,"PrecisionGrip Coupler",Instrumentation
+18,186,"FluidicFrame Structure",Instrumentation
+13,187,"AeroCarbon Composite","Engineering Materials"
+47,188,"FlexiMotion Joint",Aeronautics
+49,189,"HydraJet Component","Motion Systems"
+8,190,"NanoScope Analyzer","Engineering Materials"
+3,191,"PrecisionMate Sensor",Instrumentation
+43,192,"FluidicForce Mechanism",Instrumentation
+27,193,"AeroTitanium Material","Engineering Materials"
+40,194,"FlexiTrack Sensor",Aeronautics
+50,195,"HydraPropulsion Engine","Motion Systems"
+2,196,"NanoRotor Blade","Engineering Materials"
+16,197,"PrecisionLink Coupling",Instrumentation
+14,198,"FluidicFlow Recorder","Fluid Connectors"
+5,199,"MotionFlex Connector","Engineering Materials"
+7,200,"AeroCeramic Material",Aeronautics
